@@ -1,0 +1,28 @@
+name: Raconteur Sound
+favicon: null
+layout_spectrum: 0.7098941162694246
+typography_spectrum: 0.2260114480741322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9378895964473486
+  lightness: 0.06507754791527987
+  saturation: 0.3525143333245069
+  rhythmicContrast: 0.7469736377242953
+purpose: []
