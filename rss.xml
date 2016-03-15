@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Raconteur Sound]]></title>
+        <description><![CDATA[Raconteur Sound]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 21:29:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time. </p>]]></description>
+            <link>undefinedstories-are-told-time-and-time-again-a-raconteur-makes-you/index.html</link>
+            <guid isPermaLink="false">13c7f041-70cc-42ed-b5c6-a03f069f0718</guid>
+            <pubDate>Tue, 15 Mar 2016 21:29:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
