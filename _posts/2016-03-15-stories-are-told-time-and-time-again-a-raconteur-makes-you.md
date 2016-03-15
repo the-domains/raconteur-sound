@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.\_"
-datePublished: '2016-03-15T21:48:11.507Z'
-dateModified: '2016-03-15T21:46:59.970Z'
+datePublished: '2016-03-15T21:53:17.082Z'
+dateModified: '2016-03-15T21:53:16.496Z'
 title: Home
 author: []
 sourcePath: _posts/2016-03-15-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
@@ -27,6 +27,7 @@ Stories are told time and time again. A raconteur makes you feel like you're hea
 Raconteur Sound is dedicated to helping the world hear your story.
 
 Raconteur Sound is a full service post-production sound house offering everything from Hollywood style dialogue editing to surround re-recording mixes. We specialize in completing projects remotely. We are able to harness the talents of highly skilled individuals who, although spread throughout the country, remain connected virtually, allowing us to fluidly expand to meet the needs of any project.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e484c0a2-f207-40c4-bc19-42c7d15fb5e6.jpg)
 
 Raconteur Sound is commited to the production of top quality sonic media offering:
 
