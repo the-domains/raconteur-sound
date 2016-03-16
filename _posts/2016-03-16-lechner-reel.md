@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/147775521'
+inLanguage: null
+starred: false
+keywords: []
+description: "This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com"
+datePublished: '2016-03-16T23:56:56.222Z'
+dateModified: '2016-03-16T23:56:48.897Z'
 author:
   - name: Colin Lechner
     url: 'http://vimeo.com/raconteursound'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com"
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/147775521'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/147775521'
 title: Lechner Reel
-datePublished: '2016-03-16T23:56:39.753Z'
-dateModified: '2016-03-16T23:55:38.218Z'
 sourcePath: _posts/2016-03-16-lechner-reel.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
