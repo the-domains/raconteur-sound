@@ -4,8 +4,15 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteur-sound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 01:44:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteur-sound/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Medalist</p>]]></description>
+            <link>https://thegrid.ai/raconteur-sound/medalist/index.html</link>
+            <guid isPermaLink="false">40e031d7-1d99-4241-8378-1e0a16fda4d4</guid>
+            <pubDate>Wed, 16 Mar 2016 01:44:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97ae5077fa5abb3275716c1c93cd4ac4200d7bdf.png"></article>]]></description>
