@@ -4,8 +4,15 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteur-sound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 00:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 00:13:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteur-sound/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97ae5077fa5abb3275716c1c93cd4ac4200d7bdf.png"></article>]]></description>
+            <link>https://thegrid.ai/raconteur-sound/stories-are-told-time-and-time-again-a-raconteur-makes-you/index.html</link>
+            <guid isPermaLink="false">13c7f041-70cc-42ed-b5c6-a03f069f0718</guid>
+            <pubDate>Thu, 17 Mar 2016 00:13:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ports and Portals by Raconteur Sound]]></title>
             <description><![CDATA[<article><h1>Ports and Portals by Raconteur Sound</h1><p>Ports and Portals is a Soundwalk that allows you to explore beautiful downtown Savannah, GA, and experience various locations through the lens of soundscapes inspired by the local lore, history, and folktales.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/221d44aae10228f0a855bbf0881a00618c57d051.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/raconteur-sound/post-production-sound-is-a-crucial-element-for-every-film-an/index.html</link>
             <guid isPermaLink="false">00947c2c-c2aa-4219-9d63-32d2fc871de6</guid>
             <pubDate>Wed, 16 Mar 2016 23:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97ae5077fa5abb3275716c1c93cd4ac4200d7bdf.png"></article>]]></description>
-            <link>https://thegrid.ai/raconteur-sound/stories-are-told-time-and-time-again-a-raconteur-makes-you/index.html</link>
-            <guid isPermaLink="false">13c7f041-70cc-42ed-b5c6-a03f069f0718</guid>
-            <pubDate>Wed, 16 Mar 2016 01:26:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
