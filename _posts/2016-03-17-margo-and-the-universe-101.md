@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Created by Morgan & Grant McGowen Starring Morgan Pelligrino, Elena Bargo, Mandi Kerr, Grant McGowen, Robby Glade, Will Dove, Sara Bess Norton, Hillary Heath, Andy Fleming Crew: Josh Cubas, Drake Simons, Nicole Kemper, Hillary Heath, Sarah Hodges, Aileen Solis, Cyn Sin, Will Culick, Grant McGowen, Rachel Shuey, Preston Goodson, Allison Reitz, Marinna Guzy, Colin Lechner With Music by: Divine Suns, Merry Go Rounds, Greer Ashton, Jesse Tyler and Adelaide Tai Presented by Pinch 'n' Ouch Theatre"
-datePublished: '2016-03-17T23:13:34.141Z'
-dateModified: '2016-03-17T23:12:55.540Z'
+datePublished: '2016-03-17T23:17:00.703Z'
+dateModified: '2016-03-17T23:13:43.792Z'
 author:
   - name: Grant McGowen
     url: 'http://vimeo.com/grantmcgowen'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: MARGO AND THE UNIVERSE - 101
+sourcePath: _posts/2016-03-17-margo-and-the-universe-101.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-17-margo-and-the-universe-101.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
