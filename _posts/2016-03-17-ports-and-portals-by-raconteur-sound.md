@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ports and Portals is a Soundwalk that allows you to explore beautiful downtown Savannah, GA, and experience various locations through the lens of soundscapes inspired by the local lore, history, and folktales.'
-datePublished: '2016-03-17T00:09:31.650Z'
-dateModified: '2016-03-17T00:06:09.375Z'
+datePublished: '2016-03-17T00:15:42.064Z'
+dateModified: '2016-03-17T00:09:36.811Z'
 author:
   - name: Raconteur Sound
     url: 'http://soundcloud.com/raconteur-sound'
