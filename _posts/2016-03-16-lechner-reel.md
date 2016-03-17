@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com"
-datePublished: '2016-03-17T21:18:38.978Z'
-dateModified: '2016-03-17T21:18:19.897Z'
+datePublished: '2016-03-17T21:20:51.985Z'
+dateModified: '2016-03-17T21:18:47.310Z'
 author:
   - name: Colin Lechner
     url: 'http://vimeo.com/raconteursound'
