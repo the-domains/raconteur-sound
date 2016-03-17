@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.\_"
-datePublished: '2016-03-17T00:13:04.043Z'
-dateModified: '2016-03-17T00:10:34.321Z'
+datePublished: '2016-03-17T00:14:59.619Z'
+dateModified: '2016-03-17T00:13:48.664Z'
 title: Home
 author: []
 sourcePath: _posts/2016-03-15-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
@@ -22,8 +22,6 @@ url: stories-are-told-time-and-time-again-a-raconteur-makes-you/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20875d4d-10d9-41da-a39a-4813acd9514d.png)
-
 Stories are told time and time again. A raconteur makes you feel like you're hearing it for the first time. 
 
 Raconteur Sound is dedicated to helping the world hear your story.
@@ -54,3 +52,4 @@ Audio Restoration
 Forensic Audio Restoration
 
 Impulse Response Creation
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d24dfffc-f6dd-40a7-8c9d-d6daa3418482.png)
