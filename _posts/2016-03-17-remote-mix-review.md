@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-17T22:50:22.995Z'
-dateModified: '2016-03-17T22:50:05.140Z'
+description: 'In an ideal world, there would be no need for a remote mix. Once preliminary mixing was complete, I would invite you to come and sit in on the final mix at my mix stage, and we would work on completing your soundtrack together. Unfortunately, this is not always possible, and sometimes I must rely on my own experience to decide what aesthetic choices to make in your absence. I love all forms of audio-visual storytelling, and have studied thousands of movies and TV shows to learn how to aid story through sound. Any, and every, decision I make is done from the desire to make your film the best it can be.'
+datePublished: '2016-03-17T22:55:44.560Z'
+dateModified: '2016-03-17T22:50:31.014Z'
 title: Remote Mix Review
 author: []
+sourcePath: _posts/2016-03-17-remote-mix-review.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-remote-mix-review.md
-published: true
 url: remote-mix-review/index.html
 _type: Article
 
