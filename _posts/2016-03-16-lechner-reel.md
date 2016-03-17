@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/147775521'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com"
-datePublished: '2016-03-17T00:00:10.835Z'
-dateModified: '2016-03-17T00:00:01.774Z'
+datePublished: '2016-03-17T21:18:38.978Z'
+dateModified: '2016-03-17T21:18:19.897Z'
 author:
   - name: Colin Lechner
     url: 'http://vimeo.com/raconteursound'
