@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Marinna Guzy is a skilled storyteller bound to no medium. She is more than just a sound designer, she is a sound artist. Website: www.mg-raconteur.com'
-datePublished: '2016-03-17T23:30:31.905Z'
-dateModified: '2016-03-17T23:30:20.228Z'
+datePublished: '2016-03-17T23:33:29.229Z'
+dateModified: '2016-03-17T23:33:26.850Z'
 title: Collaborators
 author: []
+sourcePath: _posts/2016-03-17-collaborators.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-collaborators.md
-published: true
 url: collaborators/index.html
 _type: WebPage
 
