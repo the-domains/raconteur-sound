@@ -4,8 +4,15 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteur-sound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 21:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 21:18:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteur-sound/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lechner Reel]]></title>
+            <description><![CDATA[<article><h1>Lechner Reel</h1><p>This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/306f26c407b7d073a9af45fb8beaf062e85e9d15.jpg"></article>]]></description>
+            <link>https://vimeo.com/147775521</link>
+            <guid isPermaLink="false">c0ce1881-9ff3-4921-a550-aad87e46d592</guid>
+            <pubDate>Thu, 17 Mar 2016 21:18:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time. </p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://vimeo.com/133247580</link>
             <guid isPermaLink="false">5c3ed6a9-23fd-4a45-8ab8-7994a464c738</guid>
             <pubDate>Thu, 17 Mar 2016 21:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lechner Reel]]></title>
-            <description><![CDATA[<article><h1>Lechner Reel</h1><p>This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/306f26c407b7d073a9af45fb8beaf062e85e9d15.jpg"></article>]]></description>
-            <link>https://vimeo.com/147775521</link>
-            <guid isPermaLink="false">c0ce1881-9ff3-4921-a550-aad87e46d592</guid>
-            <pubDate>Thu, 17 Mar 2016 00:00:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post-Production Sound]]></title>
