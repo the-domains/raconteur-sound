@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.\_"
-datePublished: '2016-03-18T04:01:35.561Z'
-dateModified: '2016-03-18T03:56:18.154Z'
+datePublished: '2016-03-18T04:05:43.913Z'
+dateModified: '2016-03-18T04:05:40.082Z'
 title: Home
 author: []
 sourcePath: _posts/2016-03-15-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
@@ -54,3 +54,5 @@ Audio Restoration
 Forensic Audio Restoration
 
 Impulse Response Creation
+
+* (c) 2015 Raconteur Sound
