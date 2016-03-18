@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Marinna Guzy is a skilled storyteller bound to no medium. She is more than just a sound designer, she is a sound artist.\_"
-datePublished: '2016-03-18T01:43:16.202Z'
-dateModified: '2016-03-18T01:42:27.860Z'
+datePublished: '2016-03-18T03:12:04.649Z'
+dateModified: '2016-03-18T03:11:57.799Z'
 title: Collaborators
 author: []
 sourcePath: _posts/2016-03-17-collaborators.md
@@ -56,6 +56,8 @@ An Austin, TX based sound designer and audio engineer with a work ethic that can
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9db6905f-8a34-4de9-8570-2689dec5e257.jpg)
 
 Nirana Singh is a diligent and skilled sound designer who thrives in the middle of the action. 
+
+(c) 2015 Raconteur Sound
 
 [0]: http://mg-raconteur.com/
 [1]: http://raibarchener.com/
