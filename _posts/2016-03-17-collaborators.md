@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Marinna Guzy is a skilled storyteller bound to no medium. She is more than just a sound designer, she is a sound artist.\_"
-datePublished: '2016-03-18T03:12:04.649Z'
-dateModified: '2016-03-18T03:11:57.799Z'
+datePublished: '2016-03-18T03:13:14.582Z'
+dateModified: '2016-03-18T03:12:13.833Z'
 title: Collaborators
 author: []
 sourcePath: _posts/2016-03-17-collaborators.md
