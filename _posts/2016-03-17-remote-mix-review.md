@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In an ideal world, there would be no need for a remote mix. Once preliminary mixing was complete, I would invite you to come and sit in on the final mix at my mix stage, and we would work on completing your soundtrack together. Unfortunately, this is not always possible, and sometimes I must rely on my own experience to decide what aesthetic choices to make in your absence. I love all forms of audio-visual storytelling, and have studied thousands of movies and TV shows to learn how to aid story through sound. Any, and every, decision I make is done from the desire to make your film the best it can be.'
-datePublished: '2016-03-18T06:33:54.674Z'
-dateModified: '2016-03-18T04:10:18.409Z'
+datePublished: '2016-03-18T21:24:20.794Z'
+dateModified: '2016-03-18T21:23:41.007Z'
 title: Remote Mix Review
 author: []
 sourcePath: _posts/2016-03-17-remote-mix-review.md
@@ -39,3 +39,5 @@ When you are ready to begin reviewing your mix, the first thing to do is set you
 Should you have any concerns regarding you mix, _please _let me know. Mix notes are extremely important to me because they are the way for you to clearly communicate your desires to me when we are not able to work on your project in the same space. To eliminate any guesswork and ambiguity, every note should be accompanied by a timestamp that corresponds to the timecode burn-in on the picture. This allows me to optimize my time to make the soundtrack fit your vision.   
 Finally, it is important not to rush the review process. If time allows, it is best to listen to the mix multiple times and see if you still feel the same way about all of your notes. Often, once a person grows accustomed to something being a certain way, it can be difficult to accept a different version. Composers call this temp-lust. Allowing time for a change to evolve can provide more perspective upon judgment. Review a mix twice in one day, then let it sit and review it again the next day.   
 I hope that you found this helpful and reviewing the mix goes smoothly. If you have any questions regarding selecting headphones, or even setting up a more substantial monitoring system, please don't hesitate to contact me.
+
+(c) 2015 Raconteur Sound
