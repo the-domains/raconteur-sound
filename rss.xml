@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/raconteur-sound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 01:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 01:16:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/raconteur-sound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -19,6 +19,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">c0ce1881-9ff3-4921-a550-aad87e46d592</guid>
             <pubDate>Thu, 17 Mar 2016 21:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tea With Friends]]></title>
+            <description><![CDATA[<article><h1>Tea With Friends</h1><p>Tea With Friends explores the association between taste and memory as famously described by Marcel Proust. One evening, a taste of tea enveloped me in a memory from early childhood, evoking the recollection of my fondness for hosting teddy bear tea parties. Created for the Weekend Challenge: vimeo.com/groups/weekendchallenge</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a71a3be344cd916c0cb8c312bd528438af6a20.jpg"></article>]]></description>
+            <link>https://vimeo.com/147151207</link>
+            <guid isPermaLink="false">aadf32fd-a704-4ce6-b276-b8cbe8515390</guid>
+            <pubDate>Fri, 18 Mar 2016 01:15:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Appalachian Tale - Thesis Version]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/126517429</link>
             <guid isPermaLink="false">1c37933b-07c0-4d39-90c6-105b8d1297a4</guid>
             <pubDate>Thu, 17 Mar 2016 21:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frog Legs]]></title>
-            <description><![CDATA[<article><h1>Frog Legs</h1><p>This video is for portfolio use only. It features the Foley work of Colin Lechner and Ethan Holland. This version of Frog Legs was remixed by Colin Lechner to highlight the Foley effects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/559d153264376585fc59acbb02ba68bfafe22716.jpg"></article>]]></description>
-            <link>https://vimeo.com/133247580</link>
-            <guid isPermaLink="false">5c3ed6a9-23fd-4a45-8ab8-7994a464c738</guid>
-            <pubDate>Thu, 17 Mar 2016 21:14:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
