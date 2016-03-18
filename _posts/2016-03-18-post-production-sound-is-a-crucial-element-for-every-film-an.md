@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Post-production sound is a crucial element for every film and television project, and it requires just as much planning and attention as script writing, cinematography, or editing. It is a multi-layered process, which results in the soundtrack: the combination of the dialogue, sound effects, and Foley. It should also be noted that music, whether it be score or needle drop, is typically not handled by the supervising sound editor. The re-recording mixer is responsible for incorporating all the elements, including the music into its final format for presentation.'
-datePublished: '2016-03-18T03:43:13.129Z'
-dateModified: '2016-03-18T03:40:54.410Z'
-title: ''
+datePublished: '2016-03-18T03:44:57.679Z'
+dateModified: '2016-03-18T03:44:47.213Z'
+title: Goop
 author: []
 sourcePath: _posts/2016-03-18-post-production-sound-is-a-crucial-element-for-every-film-an.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: post-production-sound-is-a-crucial-element-for-every-film-an/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56d608b5-6924-4c3b-9c08-90601ef3981f.png)
