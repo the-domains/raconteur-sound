@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/112418416'
 inLanguage: null
 starred: false
 keywords: []
-description: "Created by Morgan & Grant McGowen Starring Morgan Pelligrino, Elena Bargo, Mandi Kerr, Grant McGowen, Robby Glade, Will Dove, Sara Bess Norton, Hillary Heath, Andy Fleming Crew: Josh Cubas, Drake Simons, Nicole Kemper, Hillary Heath, Sarah Hodges, Aileen Solis, Cyn Sin, Will Culick, Grant McGowen, Rachel Shuey, Preston Goodson, Allison Reitz, Marinna Guzy, Colin Lechner With Music by: Divine Suns, Merry Go Rounds, Greer Ashton, Jesse Tyler and Adelaide Tai Presented by Pinch 'n' Ouch Theatre"
-datePublished: '2016-03-18T00:55:32.042Z'
-dateModified: '2016-03-18T00:55:31.648Z'
+description: Re-record Mixer - Colin Lechner
+datePublished: '2016-03-18T01:45:53.965Z'
+dateModified: '2016-03-18T01:45:53.452Z'
 author:
   - name: Grant McGowen
     url: 'http://vimeo.com/grantmcgowen'
@@ -54,4 +54,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Re-record Mixer - Colin Lechner
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F112418416&amp;url=https%3A%2F%2Fvimeo.com%2F112418416&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F497384069_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
