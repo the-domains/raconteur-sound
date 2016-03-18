@@ -1,7 +1,7 @@
 name: Raconteur Sound
 favicon: null
-layout_spectrum: 0.3501
-typography_spectrum: 0.50107
+layout_spectrum: 0.99613
+typography_spectrum: 0.7738
 title: Raconteur Sound
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#edf1f9'
     - '#2d292a'
     - '#a79d8d'
-  brandStrength: 0.75
-  lightness: 0.6875
+  brandStrength: 0.6875
+  lightness: 0.5
   saturation: 0.25
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
