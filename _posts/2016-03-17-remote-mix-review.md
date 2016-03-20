@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In an ideal world, there would be no need for a remote mix. Once preliminary mixing was complete, I would invite you to come and sit in on the final mix at my mix stage, and we would work on completing your soundtrack together. Unfortunately, this is not always possible, and sometimes I must rely on my own experience to decide what aesthetic choices to make in your absence. I love all forms of audio-visual storytelling, and have studied thousands of movies and TV shows to learn how to aid story through sound. Any, and every, decision I make is done from the desire to make your film the best it can be.'
-datePublished: '2016-03-18T21:24:20.794Z'
-dateModified: '2016-03-18T21:23:41.007Z'
+datePublished: '2016-03-20T22:04:04.480Z'
+dateModified: '2016-03-18T21:24:28.307Z'
 title: Remote Mix Review
 author: []
 sourcePath: _posts/2016-03-17-remote-mix-review.md
