@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: "Stories are told time and time again. A raconteur makes you feel like you’re hearing it for the first time.\_"
-datePublished: '2016-03-22T00:02:47.540Z'
-dateModified: '2016-03-22T00:02:11.738Z'
+datePublished: '2016-03-21T23:54:34.933Z'
+dateModified: '2016-03-21T23:47:31.515Z'
 title: About
 author: []
 sourcePath: _posts/2016-03-15-stories-are-told-time-and-time-again-a-raconteur-makes-you.md
