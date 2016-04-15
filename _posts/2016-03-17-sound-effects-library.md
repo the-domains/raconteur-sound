@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.sonniss.com/vendor/clechner/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - boom
   - prat
 description: Sound Effects Libraries by Raconteur Sound
-datePublished: '2016-03-18T01:20:03.779Z'
-dateModified: '2016-03-18T01:20:03.276Z'
+datePublished: '2016-04-15T22:08:45.309Z'
+dateModified: '2016-04-15T22:08:39.117Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.sonniss.com
   url: 'http://www.sonniss.com'
   favicon: 'http://www.sonniss.com/favicon.ico'
+url: sound-effects-library/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
