@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Post-production sound is a crucial element for every film and television project, and it requires just as much planning and attention as script writing, cinematography, or editing. It is a multi-layered process, which results in the soundtrack: the combination of the dialogue, sound effects, and Foley. It should also be noted that music, whether it be score or needle drop, is typically not handled by the supervising sound editor. The re-recording mixer is responsible for incorporating all the elements, including the music into its final format for presentation.'
-datePublished: '2016-03-18T20:49:47.315Z'
-dateModified: '2016-03-18T20:07:53.044Z'
+datePublished: '2016-04-18T01:41:39.409Z'
+dateModified: '2016-04-18T01:41:38.065Z'
 title: Post-Production Sound
 author: []
 sourcePath: _posts/2016-03-18-post-production-sound-is-a-crucial-element-for-every-film-an.md
@@ -32,7 +32,7 @@ Post-production sound is a crucial element for every film and television project
 
 Dialogue for live-action projects is recorded on set during shooting. However, before the production dialogue can be integrated into the soundtrack it needs to be edited. This is a labor-intensive process in which the editor works to aurally mask all picture edits and reinforce the illusion of linear continuity.  
 
-Sometimes production dialogue is unsalvageable. In these scenarios the supervising sound editor requests the implementation of_automated dialogue replacement (ADR)_to supplement the production dialogue.
+Sometimes production dialogue is unsalvageable. In these scenarios the supervising sound editor requests the implementation of _automated dialogue replacement (ADR)_to supplement the production dialogue.
 
 **Sound Effects**
 
