@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: About
-datePublished: '2016-05-20T03:58:49.885Z'
-dateModified: '2016-05-20T03:51:00.139Z'
+datePublished: '2016-06-03T07:40:58.842Z'
+dateModified: '2016-05-20T03:58:58.795Z'
 title: Raconteur Sound is dedicated to helping the world hear your story.
 author: []
 sourcePath: _posts/2016-05-20-raconteur-sound-is-dedicated-to-helping-the-world-hear-your.md
