@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is the heart of my field recording kit.
-datePublished: '2016-06-11T20:59:48.490Z'
-dateModified: '2016-06-11T20:59:35.621Z'
+datePublished: '2016-06-11T21:01:24.594Z'
+dateModified: '2016-06-11T21:01:16.529Z'
 title: ''
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-06-11-field-recording-equipment.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: field-recording-equipment/index.html
 _type: Article
 
