@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is the heart of my field recording kit.
-datePublished: '2016-06-12T02:30:44.275Z'
-dateModified: '2016-06-12T02:30:22.042Z'
+datePublished: '2016-06-14T07:38:34.957Z'
+dateModified: '2016-06-12T02:31:38.866Z'
 title: ''
 author:
   - name: ''
