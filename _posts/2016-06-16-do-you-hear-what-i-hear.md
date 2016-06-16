@@ -4,23 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-16T05:02:46.912Z'
-dateModified: '2016-06-16T05:02:19.401Z'
-title: ''
+description: >-
+  I have the time and equipment to capture and create fantastic SFX, but I don’t
+  have the financial resources to optimize my field recording expeditions.
+datePublished: '2016-06-16T05:21:03.527Z'
+dateModified: '2016-06-16T05:20:47.865Z'
+title: 'Hello, my name is Colin Lechner. I am a sound designer and field recordist.'
 author: []
+sourcePath: _posts/2016-06-16-do-you-hear-what-i-hear.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-do-you-hear-what-i-hear.md
 url: do-you-hear-what-i-hear/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/447cf8db-7790-447e-ab4c-0c05a77b511e.jpg)
 
-## Hello, my name is
-Colin Lechner. I am a sound designer and field recordist.
+## Hello, my name is Colin Lechner. I am a sound designer and field recordist.
 
 I have the time and equipment to capture and create fantastic SFX, but I don't have the financial resources to optimize my field recording expeditions.
 
@@ -52,8 +53,6 @@ Having all of these recordings at your disposal is great, but essentially useles
 
 My most recent recording project has been natural backgrounds of the Pacific Northwest. Since beginning to record this collection in April, I have amassed over 6GB of edited and cataloged rainstorms, forest ambiences, and ocean waves. As of June 7, I have recorded and cataloged 114 sound effects files this year. The vast majority of these files contain multiple takes of the sound effect. Up till now, I have only been able to dedicate one day a week to recording in the field, but with your help I can increase my efforts. 
 
-As a subscriber,
-you are going get a lot of high quality, useful sound effects; it's
-guaranteed.
+As a subscriber, you are going get a lot of high quality, useful sound effects; it's guaranteed.
 
 (c) _2016 Raconteur Sound_
