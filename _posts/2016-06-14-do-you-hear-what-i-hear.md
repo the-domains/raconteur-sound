@@ -7,8 +7,8 @@ keywords: []
 description: >-
   I have the time and equipment to capture and create fantastic SFX, but I don’t
   have the financial resources to optimize my field recording expeditions.
-datePublished: '2016-06-16T08:23:22.330Z'
-dateModified: '2016-06-16T08:23:16.532Z'
+datePublished: '2016-06-16T08:54:27.434Z'
+dateModified: '2016-06-16T08:54:04.101Z'
 title: 'Hello, my name is Colin Lechner. I am a sound designer and field recordist.'
 author: []
 sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
@@ -54,4 +54,6 @@ My most recent recording project has been natural backgrounds of the Pacific Nor
 
 As a subscriber, you are going get a lot of high quality, useful sound effects; it's guaranteed.
 
-(c) _2016 Raconteur Sound_
+[Contact Us ][0] (c) _2016 Raconteur Sound_
+
+[0]: http://raconteursound.com/contact
