@@ -4,25 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: |-
-  Hello, my name is
-  Colin Lechner. I am a sound designer and field recordist.
-datePublished: '2016-06-14T07:37:40.614Z'
-dateModified: '2016-06-14T07:37:33.510Z'
-title: ''
+description: >-
+  I have the time and equipment to capture and create fantastic SFX, but I don’t
+  have the financial resources to optimize my field recording expeditions.
+datePublished: '2016-06-16T00:59:18.266Z'
+dateModified: '2016-06-14T07:54:30.524Z'
+title: 'Hello, my name is Colin Lechner. I am a sound designer and field recordist.'
 author: []
+sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
 url: do-you-hear-what-i-hear/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2fb67a-0041-4df6-b9f3-849de649867b.jpg)
 
-Hello, my name is
-Colin Lechner. I am a sound designer and field recordist.
+## Hello, my name is Colin Lechner. I am a sound designer and field recordist.
 
 I have the time and equipment to capture and create fantastic SFX, but I don't have the financial resources to optimize my field recording expeditions.
 
@@ -52,6 +51,4 @@ Having all of these recordings at your disposal is great, but essentially useles
 
 My most recent recording project has been natural backgrounds of the Pacific Northwest. Since beginning to record this collection in April, I have amassed over 6GB of edited and cataloged rainstorms, forest ambiences, and ocean waves. As of June 7, I have recorded and cataloged 114 sound effects files this year. The vast majority of these files contain multiple takes of the sound effect. Up till now, I have only been able to dedicate one day a week to recording in the field, but with your help I can increase my efforts. 
 
-As a subscriber,
-you are going get a lot of high quality, useful sound effects; it's
-guaranteed.
+As a subscriber, you are going get a lot of high quality, useful sound effects; it's guaranteed.
