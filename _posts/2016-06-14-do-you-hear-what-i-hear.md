@@ -7,8 +7,8 @@ keywords: []
 description: >-
   I have the time and equipment to capture and create fantastic SFX, but I don’t
   have the financial resources to optimize my field recording expeditions.
-datePublished: '2016-06-16T04:15:59.178Z'
-dateModified: '2016-06-16T04:08:35.242Z'
+datePublished: '2016-06-16T04:19:06.409Z'
+dateModified: '2016-06-16T04:18:50.484Z'
 title: 'Hello, my name is Colin Lechner. I am a sound designer and field recordist.'
 author: []
 sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
@@ -52,3 +52,5 @@ Having all of these recordings at your disposal is great, but essentially useles
 My most recent recording project has been natural backgrounds of the Pacific Northwest. Since beginning to record this collection in April, I have amassed over 6GB of edited and cataloged rainstorms, forest ambiences, and ocean waves. As of June 7, I have recorded and cataloged 114 sound effects files this year. The vast majority of these files contain multiple takes of the sound effect. Up till now, I have only been able to dedicate one day a week to recording in the field, but with your help I can increase my efforts. 
 
 As a subscriber, you are going get a lot of high quality, useful sound effects; it's guaranteed.
+
+(c) _2016 Raconteur Sound_
