@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is the heart of my field recording kit.
-datePublished: '2016-06-16T01:01:13.362Z'
-dateModified: '2016-06-16T01:01:12.683Z'
+datePublished: '2016-06-16T08:57:28.302Z'
+dateModified: '2016-06-16T08:56:30.644Z'
 title: ''
 author:
   - name: ''
@@ -37,4 +37,6 @@ _type: Article
 
 * Sennheiser HD 280 Pro Headphones
 
-(c) _2016 Raconteur Sound_
+[Contact Us ][0] (c) _2016 Raconteur Sound_
+
+[0]: http://raconteursound.com/contact
