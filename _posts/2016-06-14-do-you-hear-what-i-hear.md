@@ -7,8 +7,8 @@ keywords: []
 description: >-
   I have the time and equipment to capture and create fantastic SFX, but I don’t
   have the financial resources to optimize my field recording expeditions.
-datePublished: '2016-06-16T09:03:23.146Z'
-dateModified: '2016-06-16T09:01:04.830Z'
+datePublished: '2016-06-19T05:31:45.565Z'
+dateModified: '2016-06-16T09:03:32.021Z'
 title: 'Hello, my name is Colin Lechner. I am a sound designer and field recordist.'
 author: []
 sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
