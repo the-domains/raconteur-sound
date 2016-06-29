@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-29T04:39:00.001Z'
+datePublished: '2016-06-29T04:49:30.977Z'
 sourcePath: _posts/2016-06-29-rewards-list.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-29T04:36:27.816Z'
+dateModified: '2016-06-29T04:49:25.741Z'
 title: Rewards List
 publisher: null
 description: Descriptions of Contributor Rewards.
@@ -24,7 +24,8 @@ Descriptions of Contributor Rewards.
 
 Asterisk\* indicate immediate gratification rewards elements.
 
-* **$10 - Cuckoo Clock Library\***
+**$10 - Cuckoo Clock Library\***
+
 * $2 dollar savings from Sonniss
 
 **$50 - Spring in the Pacific Northwest Library\***
