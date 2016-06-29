@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-29T04:38:58.754Z'
+datePublished: '2016-06-29T04:47:35.341Z'
 sourcePath: _posts/2016-06-11-field-recording-equipment.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-29T04:36:37.656Z'
+dateModified: '2016-06-29T04:47:24.722Z'
 title: Field Recording Kit
 publisher: null
 description: This is the heart of my field recording kit.
