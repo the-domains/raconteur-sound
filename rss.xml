@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Studios]]></description>
         <link>http://raconteurstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 04:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 04:15:17 GMT</lastBuildDate>
         <atom:link href="http://raconteurstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Do You Want to Hear What I Hear?]]></title>
@@ -12,6 +12,13 @@
             <link>http://raconteurstudios.com/do-you-hear-what-i-hear/index.html</link>
             <guid isPermaLink="false">c386c545-fef9-4674-849f-52ca1ac80d83</guid>
             <pubDate>Wed, 29 Jun 2016 03:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Field Recording Kit]]></title>
+            <description><![CDATA[<article><h1>Field Recording Kit</h1><p>This is the heart of my field recording kit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d65897cf2029ad453ec821f3f4001578541b975.jpg"></article>]]></description>
+            <link>http://raconteurstudios.com/field-recording-equipment/index.html</link>
+            <guid isPermaLink="false">c34c111b-95b5-44dc-8665-76d0447bf427</guid>
+            <pubDate>Wed, 29 Jun 2016 04:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sound Effects]]></title>
@@ -26,13 +33,6 @@
             <link>http://www.imdb.com/name/nm5721812/?ref_=fn_al_nm_1</link>
             <guid isPermaLink="false">20cefe6c-bc55-4fad-aec3-fc3ee0fa52fc</guid>
             <pubDate>Wed, 29 Jun 2016 04:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Field Recording Kit]]></title>
-            <description><![CDATA[<article><h1>Field Recording Kit</h1><p>This is the heart of my field recording kit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d65897cf2029ad453ec821f3f4001578541b975.jpg"></article>]]></description>
-            <link>http://raconteurstudios.com/field-recording-equipment/index.html</link>
-            <guid isPermaLink="false">c34c111b-95b5-44dc-8665-76d0447bf427</guid>
-            <pubDate>Wed, 29 Jun 2016 04:04:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spring In The Pacific Northwest]]></title>
