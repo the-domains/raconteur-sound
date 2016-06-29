@@ -1,20 +1,4 @@
-name: Raconteur Studios
-favicon: null
-layout_spectrum: 0.88299
 typography_spectrum: 0.77766
-title: Raconteur Studios
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,23 @@ color:
   lightness: 0.5625
   saturation: 0.1875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.88299
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36be0e7c-8832-445b-a82f-558e26627c35.png
+name: Raconteur Studios
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51e6a899-fbcc-42ad-ae98-03895cdc72e1.png
+title: Raconteur Studios
 purpose: []
