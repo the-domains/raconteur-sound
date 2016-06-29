@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-06-29T04:23:37.858Z'
+datePublished: '2016-06-29T04:45:13.286Z'
+sourcePath: _posts/2016-06-29-personal-bio.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-29T03:31:47.295Z'
+dateModified: '2016-06-29T04:45:10.181Z'
 title: 'Personal Bio:'
 publisher: null
 description: >-
@@ -14,7 +15,6 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-sourcePath: _posts/2016-06-29-personal-bio.md
 url: personal-bio/index.html
 _type: Article
 
@@ -28,6 +28,11 @@ Colin Lechner began his journey as a storyteller and entertainer at the age of 6
 
 In 2016, the Savannah College of Art and Design awarded Colin the _Alumni Atelier Artistic Residency_ and commissioned him to design _[Ports and Portals][2]_ a soundwalk in the historic city. Colin is Operator Certified for Pro Tools 11HD, and Icon Mix Expert Certified.
 
+[Contact Us][3]
+
+(c)2016 Raconteur Sound
+
 [0]: https://www.youtube.com/watch?v=h0tsL2mZQwg "Presidential Medalist"
 [1]: http://cinemaaudiosociety.org/wp-content/uploads/2015/08/CAS-Summer-2015-File_1.pdf "Summer 2015 Cinema Audio Society Quarterly"
 [2]: https://soundcloud.com/raconteur-sound/sets/ports-and-portals "Ports and Portals"
+[3]: http://raconteursound.com/contact "Contact Us"
