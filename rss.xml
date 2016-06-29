@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Studios]]></description>
         <link>http://raconteurstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 00:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 02:36:31 GMT</lastBuildDate>
         <atom:link href="http://raconteurstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello, my name is Colin Lechner. I am a sound designer and field recordist.]]></title>
@@ -12,6 +12,13 @@
             <link>http://raconteurstudios.com/do-you-hear-what-i-hear/index.html</link>
             <guid isPermaLink="false">c386c545-fef9-4674-849f-52ca1ac80d83</guid>
             <pubDate>Wed, 29 Jun 2016 00:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rewards List]]></title>
+            <description><![CDATA[<article><h1>Rewards List</h1><p>Descriptions of Contributor Rewards. </p></article>]]></description>
+            <link>http://raconteurstudios.com/rewards-list/index.html</link>
+            <guid isPermaLink="false">8c13a47a-dfb0-4b11-b945-92dbd20bc43d</guid>
+            <pubDate>Wed, 29 Jun 2016 02:36:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Field Recording Equipment]]></title>
