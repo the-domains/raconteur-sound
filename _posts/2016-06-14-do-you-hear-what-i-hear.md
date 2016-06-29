@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-06-29T00:16:06.979Z'
+datePublished: '2016-06-29T03:24:52.367Z'
 sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-29T00:15:05.378Z'
-title: 'Hello, my name is Colin Lechner. I am a sound designer and field recordist.'
+dateModified: '2016-06-29T03:07:16.303Z'
+title: Do You Want to Hear What I Hear?
 publisher: null
 description: >-
   I have the time and equipment to capture and create fantastic SFX, but I don’t
@@ -21,13 +21,15 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2fb67a-0041-4df6-b9f3-849de649867b.jpg)
 
+# Do You Want to Hear What I Hear?
+
 ## Hello, my name is Colin Lechner. I am a sound designer and field recordist.
 
 I have the time and equipment to capture and create fantastic SFX, but I don't have the financial resources to optimize my field recording expeditions.
 
 With this campaign, my goal is to procure a minimal amount of financial support to enable me to continue to design and capture sound effects for my work in post-production sound. As a contributor you will receive compensation through single seat user licenses to the various royalty free sound effects libraries that I create throughout the year. When you contribute, you will be supporting the development of a cohesive sound community that is excited to invest in its members' work. Think of yourself as a traditional patron of the arts! Through this project, I want any artist who works with sound to be able to participate, through investment, in the creation of the sound effects that I produce.
 
-# Do You Hear What I Hear?
+### Do you want to hear what I hear?
 
 So right now you're asking yourself "why would I contribute to your project when I can just pick up individual SFX libraries from a boutique library site?" Well, when you contribute to my campaign you're not just buying an individual library with narrow and defined content, subject to unknown technological whims that are, unfortunately, dictated by the necessity of your purchase. Instead, you will have, in effect, hired me as a personal field recordist on retainer. Depending on your level of contribution, you can tell me what you need, and I will go and find it for you. I record at almost every opportunity I find, because I take great pride in using my own sounds, and not generic library effects, in my projects. You will also have the assurance that the sound effects that I give you will be of the highest technical standard. I use a variety of microphones to capture my SFX, but my go-to choice, in both the studio and in the field, are my Schoeps CMC Colette microphones. I use these mics in tandem with a Sound Device 633 recorder, and the resulting recordings are, quite frankly, pretty magical.
 
