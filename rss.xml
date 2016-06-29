@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Studios]]></description>
         <link>http://raconteurstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 04:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 04:33:48 GMT</lastBuildDate>
         <atom:link href="http://raconteurstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Do You Want to Hear What I Hear?]]></title>
@@ -12,6 +12,13 @@
             <link>http://raconteurstudios.com/do-you-hear-what-i-hear/index.html</link>
             <guid isPermaLink="false">c386c545-fef9-4674-849f-52ca1ac80d83</guid>
             <pubDate>Wed, 29 Jun 2016 03:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7b34b38-3a8d-466e-8927-23d69c758b21.jpg">]]></description>
+            <link>http://raconteurstudios.com/be2a0fe2-b2e4-4d14-a0af-7678f1deffd4/index.html</link>
+            <guid isPermaLink="false">be2a0fe2-b2e4-4d14-a0af-7678f1deffd4</guid>
+            <pubDate>Wed, 29 Jun 2016 04:33:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.sonniss.com/vendor/clechner/</link>
             <guid isPermaLink="false">d048e30a-9c77-48be-889e-fdcf2beeef0d</guid>
             <pubDate>Wed, 29 Jun 2016 04:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Field Recording Kit]]></title>
-            <description><![CDATA[<article><h1>Field Recording Kit</h1><p>This is the heart of my field recording kit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d65897cf2029ad453ec821f3f4001578541b975.jpg"></article>]]></description>
-            <link>http://raconteurstudios.com/field-recording-equipment/index.html</link>
-            <guid isPermaLink="false">c34c111b-95b5-44dc-8665-76d0447bf427</guid>
-            <pubDate>Wed, 29 Jun 2016 04:15:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
