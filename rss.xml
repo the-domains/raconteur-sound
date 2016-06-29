@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Studios]]></description>
         <link>http://raconteurstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 04:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 04:41:12 GMT</lastBuildDate>
         <atom:link href="http://raconteurstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Do You Want to Hear What I Hear?]]></title>
@@ -12,6 +12,13 @@
             <link>http://raconteurstudios.com/do-you-hear-what-i-hear/index.html</link>
             <guid isPermaLink="false">c386c545-fef9-4674-849f-52ca1ac80d83</guid>
             <pubDate>Wed, 29 Jun 2016 03:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Stone]]></title>
+            <description><![CDATA[<article><h1>David Stone</h1><p>Colin Lechner was one of the best students I've ever had in my Sound Design classes at Savannah College of Art and Design. He has a wonderful ear (well, two, actually) and extraordinary good taste.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a8f0aa-9508-41ef-a713-e063e671c82e.jpg"></article>]]></description>
+            <link>http://raconteurstudios.com/colin-lechner-was-one-of-the-best-students-ive-ever-had-in/index.html</link>
+            <guid isPermaLink="false">3108123e-0ec1-48e7-80e3-0225df12fd8b</guid>
+            <pubDate>Wed, 29 Jun 2016 04:41:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rewards List]]></title>
@@ -40,13 +47,6 @@
             <link>http://www.sonniss.com/vendor/clechner/</link>
             <guid isPermaLink="false">d048e30a-9c77-48be-889e-fdcf2beeef0d</guid>
             <pubDate>Wed, 29 Jun 2016 04:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a8f0aa-9508-41ef-a713-e063e671c82e.jpg">]]></description>
-            <link>http://raconteurstudios.com/colin-lechner-was-one-of-the-best-students-ive-ever-had-in/index.html</link>
-            <guid isPermaLink="false">3108123e-0ec1-48e7-80e3-0225df12fd8b</guid>
-            <pubDate>Wed, 29 Jun 2016 04:38:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
