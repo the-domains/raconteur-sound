@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Studios]]></description>
         <link>http://raconteurstudios.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 04:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 04:38:54 GMT</lastBuildDate>
         <atom:link href="http://raconteurstudios.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Do You Want to Hear What I Hear?]]></title>
@@ -12,6 +12,13 @@
             <link>http://raconteurstudios.com/do-you-hear-what-i-hear/index.html</link>
             <guid isPermaLink="false">c386c545-fef9-4674-849f-52ca1ac80d83</guid>
             <pubDate>Wed, 29 Jun 2016 03:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sound Effects]]></title>
+            <description><![CDATA[<article><h1>Sound Effects</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4fb159-0683-4925-bf8e-2ad5803af8fb.png"></article>]]></description>
+            <link>http://www.sonniss.com/vendor/clechner/</link>
+            <guid isPermaLink="false">d048e30a-9c77-48be-889e-fdcf2beeef0d</guid>
+            <pubDate>Wed, 29 Jun 2016 04:38:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
