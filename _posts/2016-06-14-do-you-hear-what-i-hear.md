@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-29T04:59:37.441Z'
+datePublished: '2016-07-01T08:35:13.355Z'
 sourcePath: _posts/2016-06-14-do-you-hear-what-i-hear.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-29T04:59:32.369Z'
+dateModified: '2016-07-01T08:35:08.355Z'
 title: Do You Want to Hear What I Hear?
 publisher: null
 description: >-
@@ -21,7 +21,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2fb67a-0041-4df6-b9f3-849de649867b.jpg)
 
-# Do You Want to Hear What I Hear?
+# [Do You Want to Hear What I Hear?][0]
 
 ## Hello, my name is Colin Lechner. I am a sound designer and field recordist.
 
@@ -57,8 +57,9 @@ My most recent recording project has been natural backgrounds of the Pacific Nor
 
 As a subscriber, you are going get a lot of high quality, useful sound effects; it's guaranteed.
 
-[Contact Us][0]
+[Contact Us][1]
 
 (c) _2016 Raconteur Sound_
 
-[0]: http://raconteursound.com/contact
+[0]: https://igg.me/at/raconteurstudios "Do You Want to Hear What I hear?"
+[1]: http://raconteursound.com/contact
