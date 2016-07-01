@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-29T20:38:25.159Z'
-sourcePath: _posts/2016-06-29-rewards-list.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-29T20:37:42.617Z'
-title: Rewards List
-publisher: null
-description: Descriptions of Contributor Rewards.
-inLanguage: null
 inNav: true
+inLanguage: null
+keywords: []
+description: Descriptions of Contributor Rewards.
+datePublished: '2016-07-01T01:57:47.702Z'
+dateModified: '2016-06-30T08:23:17.975Z'
+sourcePath: _posts/2016-06-29-rewards-list.md
+author: []
+title: Rewards List
+authors: []
+publisher: null
 starred: false
 url: rewards-list/index.html
 _type: Article
