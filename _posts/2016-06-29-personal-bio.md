@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-06-29T04:45:13.286Z'
+datePublished: '2016-07-01T01:46:25.710Z'
 sourcePath: _posts/2016-06-29-personal-bio.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-29T04:45:10.181Z'
+dateModified: '2016-07-01T01:42:59.857Z'
 title: 'Personal Bio:'
 publisher: null
-description: >-
-  Colin Lechner began his journey as a storyteller and entertainer at the age of
-  6.
+description: ''
 inLanguage: null
 inNav: false
 starred: false
@@ -21,8 +19,6 @@ _type: Article
 ---
 # Personal Bio:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8e6357-1ec3-4d54-a907-35dc2eee8c07.jpg)
-
-Colin Lechner began his journey as a storyteller and entertainer at the age of 6\.
 
 Colin Lechner began his journey as a storyteller and entertainer at the age of 6, participating in community theatre and taking music lessons in both voice and piano. By the time he turned 12, he was playing the mandolin professionally with Carin Mari & Pony Express, performing widely in the United States for 11 years. Colin was responsible for meeting all of the band's sound needs both on stage and in the studio. He served as the principal recording and mixing engineer for 4 of the bands albums. Colin attended and graduated from the Recording Workshop in Chillicothe, OH. He holds a Bachelor's of Arts degree in Theatre Arts, and in 2014, he earned his Master of Fine Arts degree in sound design from the Savannah College of Art and Design, graduating with the highest honors, as [Presidential Medalist][0]. Colin's master's thesis appeared in the [Summer 2015 Cinema Audio Society Quarterly][1]. Independently, he has also published a number of sound effects libraries.
 
